@@ -1,0 +1,10 @@
+“`
+Origin: 自备源
+Label: 自备源
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: 自己使用的插件备份
+“`
